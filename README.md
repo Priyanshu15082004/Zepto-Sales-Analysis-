@@ -41,8 +41,6 @@ Delivery Time
 
 Customer Rating
 
-(Sample data obtained from internal sales logs or publicly available e-commerce datasets for simulation purposes.)
-
 📌 Key Features in the Dashboard
 📍 Geo Analysis: Revenue and order distribution across cities.
 
@@ -54,5 +52,4 @@ Customer Rating
 
 🌟 Customer Insights: Ratings and repeat customers.
 
-📊 Screenshots
-(Add screenshots or GIFs of your Power BI dashboard here for a visual preview.)
+
